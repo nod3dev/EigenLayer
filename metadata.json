@@ -2,6 +2,6 @@
   "name": "NOD3",
   "website": "https://nod3.dev/",
   "description": "Hello. We are NOD3",
-  "logo": "",
-  "twitter": ""
+  "logo": "https://www.example.com/logo.png",
+  "twitter": "https://x.com/example"
 }
